@@ -1,1 +1,1 @@
-# HyperSkill-ParkingLot
+# HyperSkill-Parking-Lot
